@@ -1,0 +1,40 @@
+body{
+	font-family: Arial;
+	text-align: center;
+	font-weight: bold;
+}
+table, tr, th, td{
+	border-color: #D7D7D7;
+	border-style: solid;
+	border-width: 0.5px;
+	border-collapse: collapse;
+}
+span{
+	color: red;
+}
+#row1{
+	background-color: #008000;
+	height: 42px;
+	color: white;
+}
+.cot1{
+	width: 77px;
+}
+.cot2{
+	width: 243px;
+}
+.cot3{
+	width: 63px;
+}
+.cot4{
+	width: 281px;
+}
+.dong1{
+	height: 42px;
+}
+.dong2{
+	height: 49px;
+}
+.dong3{
+	height: 32px;
+}
